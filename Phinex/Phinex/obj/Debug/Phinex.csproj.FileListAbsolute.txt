@@ -1,0 +1,8 @@
+E:\C#_Project\Phinex\Phinex\bin\Debug\Phinex.exe
+E:\C#_Project\Phinex\Phinex\bin\Debug\Phinex.pdb
+E:\C#_Project\Phinex\Phinex\obj\Debug\Phinex.csprojResolveAssemblyReference.cache
+E:\C#_Project\Phinex\Phinex\obj\Debug\Phinex.Form1.resources
+E:\C#_Project\Phinex\Phinex\obj\Debug\Phinex.Properties.Resources.resources
+E:\C#_Project\Phinex\Phinex\obj\Debug\Phinex.csproj.GenerateResource.Cache
+E:\C#_Project\Phinex\Phinex\obj\Debug\Phinex.exe
+E:\C#_Project\Phinex\Phinex\obj\Debug\Phinex.pdb
