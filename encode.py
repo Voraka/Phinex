@@ -43,7 +43,7 @@ def encode(inpath, key):
 
 
 def main():
-	inpath = r"C:\Users\Adminuser\Desktop\Helloworld.exe"
+	inpath = r"C:\Users\Adminuser\Desktop\073a97a88e7a1512e1a7bbadcab962f4dcedd3f5.exe"
 	key = "RZ8DGTE2Cmb1qngtwdMkF5Lx9yJSjYriX0H46KfBQs"
 	encode(inpath, key)
 	

